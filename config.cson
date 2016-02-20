@@ -1,0 +1,10 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "abdc16d7-c9aa-2954-f193-0a88f8e6d9b9"
+  "linter-eslint": {}
+  pigments: {}
+  welcome:
+    showOnStartup: false
