@@ -1,0 +1,10 @@
+.apm
+.node-gyp
+app*
+bin
+blob-store
+compile-cache
+storage
+app.ico
+SquirrelSetup.log
+Update.exe
