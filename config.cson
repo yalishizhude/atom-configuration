@@ -1,0 +1,54 @@
+"*":
+  "atom-beautify":
+    _analyticsUserId: "f8dad5cc-2285-46d9-8fab-38e2f6ee0c6a"
+    js_indent_with_tabs: false
+    js_jslint_happy: true
+    js_preserve_newlines: false
+    js_space_after_anon_function: true
+  "autocomplete-plus": {}
+  break: 10
+  "break-time":
+    break: 10
+  core:
+    disabledPackages: [
+      "markdown-preview"
+    ]
+    packagesWithKeymapsDisabled: [
+      "emmet"
+      "jslint"
+    ]
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    invisibles: {}
+    softWrapHangingIndent: 2
+    tabType: "soft"
+  emmet:
+    formatLineBreaks: false
+  "exception-reporting":
+    userId: "e799826d-188d-3e78-ae51-1dfd40ab93ba"
+  "git-plus": {}
+  jshint:
+    validateOnlyOnSave: true
+  jslint:
+    hideOnNoErrors: true
+  linter:
+    showErrorTabLine: true
+  "linter-jshint":
+    lintInlineJavaScript: true
+    lintJSXFiles: true
+  "markdown-preview":
+    useGitHubStyle: true
+  pigments:
+    extendAutocompleteToColorValue: true
+    extendAutocompleteToVariables: true
+  "symbols-tree-view":
+    autoToggle: true
+  "terminal-plus":
+    core: {}
+    style: {}
+  "vim-mode": {}
+  welcome:
+    showOnStartup: false
