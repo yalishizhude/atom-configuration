@@ -51,7 +51,9 @@
   'ctrl-v': 'core:paste'
   'ctrl-f': 'native!'
   'ctrl-y': 'native!'
+  'ctrl-r': 'native!'
 
 'atom-text-editor.vim-mode:not(.insert-mode)':
   'ctrl-f': 'native!'
   'ctrl-d': 'native!'
+  'ctrl-y': 'native!'

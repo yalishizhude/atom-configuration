@@ -1,4 +1,10 @@
 "*":
+  "activate-power-mode":
+    particles:
+      size: {}
+      spawnCount: {}
+      totalCount: {}
+    screenShake: {}
   "atom-beautify":
     _analyticsUserId: "f8dad5cc-2285-46d9-8fab-38e2f6ee0c6a"
     js_indent_with_tabs: false
@@ -12,6 +18,7 @@
   core:
     disabledPackages: [
       "markdown-preview"
+      "ascii-art"
     ]
     packagesWithKeymapsDisabled: [
       "emmet"
@@ -45,6 +52,7 @@
     extendAutocompleteToColorValue: true
     extendAutocompleteToVariables: true
   "symbols-tree-view":
+    autoHide: true
     autoToggle: true
   "terminal-plus":
     core: {}
@@ -52,3 +60,4 @@
   "vim-mode": {}
   welcome:
     showOnStartup: false
+  wordcount: {}
