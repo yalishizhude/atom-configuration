@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 blob-store
 compile-cache
 dev
 storage
 .node-gyp
 .npm
+=======
+.apm
+.node-gyp
+app*
+bin
+blob-store
+compile-cache
+storage
+app.ico
+SquirrelSetup.log
+Update.exe
+>>>>>>> 07f3f0f7bfb0b102005105fc1a80caa273311032
