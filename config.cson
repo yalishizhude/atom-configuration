@@ -1,11 +1,11 @@
 "*":
-<<<<<<< HEAD
   "activate-power-mode":
     particles:
       size: {}
       spawnCount: {}
       totalCount: {}
-    screenShake: {}
+    screenShake:
+      enabled: false
   "atom-beautify":
     _analyticsUserId: "f8dad5cc-2285-46d9-8fab-38e2f6ee0c6a"
     js_indent_with_tabs: false
@@ -15,7 +15,8 @@
   "autocomplete-plus": {}
   break: 10
   "break-time":
-    break: 10
+    break: 5
+    microinterval: 10
   core:
     disabledPackages: [
       "markdown-preview"
@@ -49,12 +50,15 @@
     lintJSXFiles: true
   "markdown-preview":
     useGitHubStyle: true
+  minimap:
+    absoluteMode: true
+    displayMinimapOnLeft: true
   pigments:
     extendAutocompleteToColorValue: true
     extendAutocompleteToVariables: true
   "symbols-tree-view":
-    autoHide: true
     autoToggle: true
+  tasks: {}
   "terminal-plus":
     core: {}
     style: {}
@@ -62,14 +66,3 @@
   welcome:
     showOnStartup: false
   wordcount: {}
-=======
-  core: {}
-  editor:
-    invisibles: {}
-  "exception-reporting":
-    userId: "abdc16d7-c9aa-2954-f193-0a88f8e6d9b9"
-  "linter-eslint": {}
-  pigments: {}
-  welcome:
-    showOnStartup: false
->>>>>>> 07f3f0f7bfb0b102005105fc1a80caa273311032
